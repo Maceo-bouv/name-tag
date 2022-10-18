@@ -1,3 +1,3 @@
 basic.forever(function () {
-    basic.showString("christophe est debile")
+    basic.showString("Maceo")
 })
